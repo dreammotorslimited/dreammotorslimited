@@ -2,20 +2,28 @@
 title: Features
 sections:
   - type: section_content
-    title: We specialize in Subaru , Honda, Nissan , Toyota and Suzuki Parts
-    section_id: features
-    content: ""
-    image: /images/07388356-af0b-40eb-bfa1-68952cb337fc.jpg
+    title: 2015 Subaru Impreza Sport
+    section_id: ""
+    content: Driver's Airbag, Passenger's Airbag, Automatic Air Conditioning,
+      Electronic Stability Program, Anti-locking Brakes, Front Disc Brakes
+      Headlight Height Adjustment, Central Locking Power Mirror, Fold Mirrors,
+      USB/AUX outlet Radio - Double Din,Radio - Single CD Player, Manual Seat
+      Adjustment,Power Steering, Teloscopic Steering Adjustment, Keyless Start,
+      Power Windows - All
+    image: /images/img_0458.jpg
     background: gray
     actions:
       - label: View Demo
         url: "#"
   - type: section_cta
-    title: This Is Call to Action Block!
+    title: Book your appointment
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
+    subtitle: ""
     actions:
       - label: Get Started
         url: "#"
+      - new_window: true
+        label: call
+        url: /call
 layout: landing
 ---
