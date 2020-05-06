@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: ""
-image: /images/subaruxv-180801065107-thumbnail-4.jpg
+image: /images/whatsapp-image-2019-10-15-at-10.45.01.jpeg
 layout: page
 ---
 Welcome to Dream Motors Limited, your number one source for all things, Newly Imported Vehicles, Used Japanese Auto Parts, and Car Rental Services. We're dedicated to providing you the very best of Quality Pre-Owned Vehicles with an emphasis on Used genuine auto parts, Car Rentals, Auto body repairs, and paintwork.
@@ -10,4 +10,4 @@ Founded in 2011 by Nigel Gordon, Dream Motors Limited has come a long way from i
 
 In 2017 Dream Motors Limited relocated to 3 Clarendon place, where its operation continued. Dream Motors Limited offers the services of the sale of Quality Pre-Owned vehicles, Used genuine Japanese auto parts, car rental services, autobody repairs, and paintwork. 
 
-![](/images/07388356-af0b-40eb-bfa1-68952cb337fc.jpg)
+![]()
