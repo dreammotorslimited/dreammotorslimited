@@ -1,7 +1,7 @@
 title: DREAM MOTORS LIMITED
 baseURL: /
 params:
-  palette: purple
+  palette: blue
   header:
     title: DREAM MOTORS LIMITED
     logo_img: /images/unnamed-1-1-.jpg
@@ -11,14 +11,17 @@ params:
         url: Welcome to Dream Motors Limited, your number one source for all things,
           Newly Imported Vehicles, Quality Used Parts and Car Rental Services.
           We aim to provide the best possible service for our customers.
-      - label: CARS FOR SALE
+        new_window: false
+      - label: Cars For Sale
         url: "2018 Honda Fit "
         primary: true
-        new_window: false
-      - label: RENTAL CARS AVAILABLE
+        new_window: true
+      - label: Rental Cars Available
         url: 2012 Subaru Impreza
-      - label: USED PARTS AVAILABLE
+        new_window: true
+      - label: Used Parts Available
         url: Parts available for vehicles 2004 and Up
+        new_window: true
   footer:
     subscribe_title: Send us an email
     subscribe_content: dreamsales44@gmail.com
@@ -62,6 +65,7 @@ params:
           offers the services of the sale of Quality Pre-Owned vehicles, Used
           genuine Japanese auto parts, car rental services, autobody repairs,
           and paintwork. "
+        new_window: true
       - label: Request a quote
         url: signup
       - label: Contact
