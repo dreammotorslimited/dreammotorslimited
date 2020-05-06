@@ -7,22 +7,21 @@ params:
     logo_img: /images/unnamed-1-1-.jpg
     has_nav: true
     nav_links:
-      - label: Home
-        url: /
+      - label: Welcome
+        url: Welcome to Dream Motors Limited, your number one source for all things,
+          Newly Imported Vehicles, Quality Used Parts and Car Rental Services.
+          We aim to provide the best possible service for our customers.
       - label: CARS FOR SALE
-        url: /features
+        url: "2018 Honda Fit "
         primary: true
         new_window: false
       - label: RENTAL CARS AVAILABLE
-        url: /pricing
+        url: 2012 Subaru Impreza
       - label: USED PARTS AVAILABLE
-        url: /style-guide
-      - label: Sign Up
-        url: /signup
-        primary: true
+        url: Parts available for vehicles 2004 and Up
   footer:
-    subscribe_title: Subscribe
-    subscribe_content: Stay up to date with our latest developments.
+    subscribe_title: Send us an email
+    subscribe_content: dreamsales44@gmail.com
     has_subscribe: true
     social_title: Community
     social_links:
@@ -36,7 +35,7 @@ params:
     tagline: DREAM MOTORS LIMITED
     logo_img: /images/unnamed-1-1-.jpg
     has_social: true
-    content: "&copy; Stackbit. All rights reserved."
+    content: ""
     links:
       - label: Made with Stackbit
         url: https://www.stackbit.com
