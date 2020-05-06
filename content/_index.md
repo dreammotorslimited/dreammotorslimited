@@ -8,9 +8,7 @@ sections:
       things, Newly imported vehicles, Quality used parts and Car rental
       services. We aim to provide quality service to our customers.**"
     image: /images/subaruxv-180801065107-thumbnail-4.jpg
-    actions:
-      - label: Learn More
-        url: /features
+    actions: []
   - type: section_features
     title: Features
     section_id: features
