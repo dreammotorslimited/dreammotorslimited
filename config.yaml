@@ -1,7 +1,7 @@
 title: DREAM MOTORS LIMITED
 baseURL: /
 params:
-  palette: blue
+  palette: purple
   header:
     title: DREAM MOTORS LIMITED
     logo_img: /images/unnamed-1-1-.jpg
@@ -29,9 +29,10 @@ params:
       - label: Instagram
         url: https://www.instagram.com/dreammotorslimited/
         new_window: true
-      - label: LinkedIn
-        url: https://www.linkedin.com/
-        new_window: true
+      - new_window: true
+        label: Facebook
+        url: https://www.facebook.com/DREAMMOTORSLTD
+        primary: true
     tagline: DREAM MOTORS LIMITED
     logo_img: /images/unnamed-1-1-.jpg
     has_social: true
@@ -62,8 +63,6 @@ params:
           offers the services of the sale of Quality Pre-Owned vehicles, Used
           genuine Japanese auto parts, car rental services, autobody repairs,
           and paintwork. "
-      - label: Blog
-        url: /blog
       - label: Request a quote
         url: signup
       - label: Contact
