@@ -1,12 +1,13 @@
 ---
 title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
-image: images/about.jpg
+subtitle: ""
+image: /images/subaruxv-180801065107-thumbnail-4.jpg
 layout: page
 ---
+Welcome to Dream Motors Limited, your number one source for all things, Newly Imported Vehicles, Used Japanese Auto Parts, and Car Rental Services. We're dedicated to providing you the very best of Quality Pre-Owned Vehicles with an emphasis on Used genuine auto parts, Car Rentals, Auto body repairs, and paintwork.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Founded in 2011 by Nigel Gordon, Dream Motors Limited has come a long way from its beginnings at 86A Molynes Road. When Nigel Gordon first started out, his passion for Quality Pre-Owned Vehicles and Used Genuine Japanese Auto Parts drove him to start his own business. Dream Motors Limited began its operation with a small staff consisting of three persons, Mr. Nigel Gordon, his secretary Monique Hudson and his bearer and handyman Mr. Barris Williams. The steady growth resulted in the expansion to another location in 2015 which was 44 Molynes Road, It was then Mr. Nigel Gordon decided to add Auto body repairs and paintwork to the company's services.
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+In 2017 Dream Motors Limited relocated to 3 Clarendon place, where its operation continued. Dream Motors Limited offers the services of the sale of Quality Pre-Owned vehicles, Used genuine Japanese auto parts, car rental services, autobody repairs, and paintwork. 
+
+![](/images/07388356-af0b-40eb-bfa1-68952cb337fc.jpg)
