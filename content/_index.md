@@ -16,11 +16,10 @@ sections:
       metus quis lorem malesuada luctus.
     background: gray
     features:
-      - title: The Best Feature of Your Services
-        content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
+      - title: QUALITY USED PARTS
+        content: We specialize in Subaru, Honda , Suzuki, Nissan and Toyota Parts for
+          Vehicles 2004 and Up
+        image: /images/07388356-af0b-40eb-bfa1-68952cb337fc.jpg
         actions:
           - label: Learn More
             url: /features
