@@ -21,7 +21,7 @@ sections:
 
           ![](/images/img_0458.jpg)
         actions:
-          - label: Order Now
+          - label: Request a Quote
             url: /signup
       - title: Professional
         price: $49/m
