@@ -8,12 +8,14 @@ sections:
     background: gray
     pricing_plans:
       - title: 2015 Subaru Impreza
-        price: "1750000"
+        price: 1,750,000
         details: |-
           * Keyless Entry
           * Dual AC
           * Alloy Rims
           * USB/AUX Outlet
+
+            ![](/images/img_0460.jpg)
 
 
 
