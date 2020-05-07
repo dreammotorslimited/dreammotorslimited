@@ -12,8 +12,7 @@ sections:
   - type: section_features
     title: Features
     section_id: features
-    subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a
-      metus quis lorem malesuada luctus.
+    subtitle: ""
     background: gray
     features:
       - title: QUALITY USED PARTS
@@ -23,11 +22,9 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: Awesome Feature of Your Services
-        content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
+      - title: Suzuki Parts Specialist
+        content: Engines, Transmissions, Body Parts , Mechanical Parts and much more!!
+        image: /images/a8f28a8b-579c-489b-8857-ac6967096721-1-.jpg
         actions:
           - label: Learn More
             url: /features
