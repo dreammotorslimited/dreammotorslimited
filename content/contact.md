@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: section_contact
     title: Contact
-    section_id: contact
+    section_id: /contact
     content: |-
       ## **3 CLARENDON PLACE, KINGSTON 10**
 
