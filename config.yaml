@@ -11,14 +11,14 @@ params:
         url: /welcome
         new_window: true
       - label: Cars For Sale
-        url: /cars for sale
+        url: /features
         primary: true
         new_window: true
       - label: Rental Cars Available
-        url: 2012 Subaru Impreza
+        url: /pricing
         new_window: true
       - label: Used Parts Available
-        url: Parts available for vehicles 2004 and Up
+        url: /style-guide
         new_window: true
   footer:
     subscribe_title: Send us an email
