@@ -8,17 +8,17 @@ params:
     has_nav: true
     nav_links:
       - label: Welcome
-        url: /Welcome
-        new_window: false
+        url: /welcome
+        new_window: true
       - label: Cars For Sale
         url: /cars for sale
         primary: true
         new_window: true
       - label: Rental Cars Available
-        url: /rental cars available
+        url: 2012 Subaru Impreza
         new_window: true
       - label: Used Parts Available
-        url: /used parts available
+        url: Parts available for vehicles 2004 and Up
         new_window: true
   footer:
     subscribe_title: Send us an email
@@ -49,7 +49,7 @@ params:
       - label: Request a quote
         url: signup
       - label: Contact
-        url: (876) 822-0850 , (876) 397-5756
+        url: /contact
     has_nav: true
 disableKinds:
   - RSS
