@@ -47,7 +47,8 @@ params:
         url: /about
         new_window: true
       - label: Request a quote
-        url: signup
+        url: /Quote
+        new_window: true
       - label: Contact
         url: /contact
     has_nav: true
