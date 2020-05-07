@@ -8,19 +8,17 @@ params:
     has_nav: true
     nav_links:
       - label: Welcome
-        url: Welcome to Dream Motors Limited, your number one source for all things,
-          Newly Imported Vehicles, Quality Used Parts and Car Rental Services.
-          We aim to provide the best possible service for our customers.
+        url: /Welcome
         new_window: false
       - label: Cars For Sale
-        url: "2018 Honda Fit "
+        url: /cars for sale
         primary: true
         new_window: true
       - label: Rental Cars Available
-        url: 2012 Subaru Impreza
+        url: /rental cars available
         new_window: true
       - label: Used Parts Available
-        url: Parts available for vehicles 2004 and Up
+        url: /used parts available
         new_window: true
   footer:
     subscribe_title: Send us an email
